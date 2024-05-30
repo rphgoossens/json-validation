@@ -1,2 +1,2 @@
-# json-validator
+# json-validation
 Camel route with json validation
